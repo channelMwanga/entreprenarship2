@@ -1,0 +1,45 @@
+	body {
+		background :darkseagreen;
+		color:black;
+		font-size: 20px;
+	Font-family:roman;
+
+	
+	}
+	h1  {
+		text-align: center;
+	 }
+h3  {
+		text-align: center;
+	 }
+header{
+
+align-items: center;
+}
+img{
+width:300px;
+border-radius:0%;
+list-style: none;
+
+}
+
+#list-inline{
+liste-style:none;
+}
+
+img{
+align-items: center;
+}
+}
+#super{
+background-color: black;
+}
+ul{
+	list-style: none;
+}
+h3:hover{
+	color: darkorange ;
+}
+summary{
+list-style: none;
+}
